@@ -29,7 +29,7 @@
   global.botname = 'Hentongers-Botz 🔥' // Ganti Jadi Nama Botmu
   global.packname = 'Sticker ✅' // Sticker Weem
   global.author = 'Team' // Sticker Weem
-  global.webme = 'https://wa.me/6289688206739' // Ganti Sama Web Mu
+  global.webme = 'https://chat.whatsapp.com/CAPptYDgkOI3V4vAOcC3tW' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/CAPptYDgkOI3V4vAOcC3tW' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
   global.youtube = 'https://chat.whatsapp.com/CAPptYDgkOI3V4vAOcC3tW' // Ganti Sama Link Yt Mu
